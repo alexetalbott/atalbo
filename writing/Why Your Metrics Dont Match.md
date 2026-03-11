@@ -87,4 +87,4 @@ The goal isn't perfection on day one. It's establishing the pattern: metrics are
 
 ---
 
-[[Writing|Back to Writing]]
+[[Talks & Thoughts|Back to Writing]]

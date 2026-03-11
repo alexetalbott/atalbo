@@ -33,7 +33,7 @@ Currently leading marketing analytics at [dbt Labs](https://www.getdbt.com/), wh
 > Selected project case studies from analytics engineering and marketing analytics. [[Projects|View projects →]]
 
 > [!tip] Writing
-> Talks and posts on analytics engineering, BI strategy, and working with data. [[Writing|Read more →]]
+> Talks and posts on analytics engineering, BI strategy, and working with data. [[Talks & Thoughts|Read more →]]
 
 > [!tip] Tools & Skills
 > Technical stack, methodologies, and capabilities. [[Tools & Skills|See details →]]

@@ -120,4 +120,4 @@ Meet them where they are. Make assumptions visible. Let them touch the inputs. A
 
 ---
 
-[[Writing|Back to Writing]]
+[[Talks & Thoughts|Back to Writing]]

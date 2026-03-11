@@ -92,4 +92,4 @@ You will likely get one, maybe two BI migrations in your tenure at a company. Do
 
 ---
 
-[[Writing|Back to Writing]]
+[[Talks & Thoughts|Back to Writing]]
