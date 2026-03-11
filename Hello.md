@@ -1,3 +1,5 @@
+![[logo.svg]]
+
 I'm Alex Talbott ʕ ͡° ͜ʖ ͡°ʔ
 
 an analytics engineer and marketing analytics leader based in Nashville, TN.

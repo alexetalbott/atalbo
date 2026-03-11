@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" width="480" height="120">
+  <defs>
+    <linearGradient id="warmGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8913A"/>
+      <stop offset="100%" stop-color="#D4652A"/>
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0A04B"/>
+      <stop offset="100%" stop-color="#E8913A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon: stylized data pipeline / DAG nodes -->
+  <g transform="translate(10, 16)">
+    <!-- Connection lines -->
+    <line x1="22" y1="28" x2="44" y2="14" stroke="#D4652A" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="22" y1="28" x2="44" y2="44" stroke="#D4652A" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="22" y1="60" x2="44" y2="44" stroke="#D4652A" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="44" y1="14" x2="70" y2="28" stroke="#D4652A" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="44" y1="44" x2="70" y2="28" stroke="#D4652A" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="44" y1="44" x2="70" y2="60" stroke="#D4652A" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="70" y1="28" x2="70" y2="60" stroke="#D4652A" stroke-width="2.5" stroke-linecap="round" opacity="0.4"/>
+
+    <!-- Source nodes (left) -->
+    <circle cx="22" cy="28" r="7" fill="url(#warmGrad)"/>
+    <circle cx="22" cy="60" r="7" fill="url(#warmGrad)"/>
+
+    <!-- Intermediate nodes (middle) -->
+    <rect x="37" y="7" width="14" height="14" rx="3" fill="url(#nodeGrad)"/>
+    <rect x="37" y="37" width="14" height="14" rx="3" fill="url(#nodeGrad)"/>
+
+    <!-- Mart nodes (right) -->
+    <polygon points="70,19 79,28 70,37 61,28" fill="url(#warmGrad)"/>
+    <polygon points="70,51 79,60 70,69 61,60" fill="url(#warmGrad)"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="112" y="56" font-family="'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="700" fill="#2D2A26" letter-spacing="-0.5">
+    alex talbott
+  </text>
+
+  <!-- Tagline -->
+  <text x="114" y="82" font-family="'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#8A7E72" letter-spacing="3">
+    ANALYTICS ENGINEER
+  </text>
+</svg>
