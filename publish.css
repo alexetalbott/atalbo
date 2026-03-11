@@ -542,23 +542,8 @@
    LAYOUT — Hide right sidebar, full-width content
    ============================================================ */
 
-.site-body-right-column,
-.sidebar-right,
-.site-body-right-column-inner,
-.outline-view-outer {
-  display: none !important;
-  width: 0 !important;
-}
-
-.site-body-center-column {
-  max-width: 100% !important;
-  width: 100% !important;
-  flex: 1 1 100% !important;
-}
-
-/* Force two-column layout (nav + content only) */
-.site-body {
-  grid-template-columns: auto 1fr !important;
+.site-body-right-column {
+  display: none;
 }
 
 

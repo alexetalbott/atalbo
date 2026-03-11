@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="13 4 68 68" width="64" height="64">
+  <defs>
+    <linearGradient id="warmGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8913A"/>
+      <stop offset="100%" stop-color="#D4652A"/>
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0A04B"/>
+      <stop offset="100%" stop-color="#E8913A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Connection lines -->
+  <line x1="22" y1="28" x2="44" y2="14" stroke="#D4652A" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <line x1="22" y1="28" x2="44" y2="44" stroke="#D4652A" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <line x1="22" y1="60" x2="44" y2="44" stroke="#D4652A" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <line x1="44" y1="14" x2="70" y2="28" stroke="#D4652A" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <line x1="44" y1="44" x2="70" y2="28" stroke="#D4652A" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <line x1="44" y1="44" x2="70" y2="60" stroke="#D4652A" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <line x1="70" y1="28" x2="70" y2="60" stroke="#D4652A" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
+
+  <!-- Source nodes (left) -->
+  <circle cx="22" cy="28" r="8" fill="url(#warmGrad)"/>
+  <circle cx="22" cy="60" r="8" fill="url(#warmGrad)"/>
+
+  <!-- Intermediate nodes (middle) -->
+  <rect x="36" y="6" width="16" height="16" rx="3" fill="url(#nodeGrad)"/>
+  <rect x="36" y="36" width="16" height="16" rx="3" fill="url(#nodeGrad)"/>
+
+  <!-- Mart nodes (right) -->
+  <polygon points="70,18 80,28 70,38 60,28" fill="url(#warmGrad)"/>
+  <polygon points="70,50 80,60 70,70 60,60" fill="url(#warmGrad)"/>
+</svg>
