@@ -533,6 +533,24 @@
   font-size: 0.85rem;
 }
 
+/* Hide "Powered by Obsidian Publish" */
+.site-footer {
+  display: none !important;
+}
+
+/* ============================================================
+   LAYOUT — Hide right sidebar, full-width content
+   ============================================================ */
+
+.site-body-right-column {
+  display: none !important;
+}
+
+.site-body-center-column {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
 
 /* ============================================================
    RESPONSIVE
