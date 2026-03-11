@@ -2,7 +2,5 @@
   "siteId": "dded02a7000496387f066331cff0be46",
   "host": "publish-01.obsidian.md",
   "included": [],
-  "excluded": [
-    "assets"
-  ]
+  "excluded": []
 }

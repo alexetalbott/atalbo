@@ -1,4 +1,3 @@
-![[logo.svg]]
 
 I'm Alex Talbott ʕ ͡° ͜ʖ ͡°ʔ
 
