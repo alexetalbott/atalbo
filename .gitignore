@@ -1,0 +1,9 @@
+# Obsidian workspace/config (local-only, not portable)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/hotkeys.json
+
+# OS
+.DS_Store
+.Trash/
