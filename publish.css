@@ -397,20 +397,22 @@
    HOME PAGE / HERO STYLING
    ============================================================ */
 
-/* First h1 on any page gets hero treatment */
-.markdown-preview-view h1:first-child {
+/* Page title (Publish auto-generated from filename) gets hero treatment */
+.page-header .page-title,
+.inline-title {
+  font-family: var(--font-text);
   font-size: 2.75rem;
+  font-weight: 700;
   letter-spacing: -0.04em;
   margin-bottom: 0.25rem;
-  margin-top: 1rem;
   background: linear-gradient(135deg, var(--color-heading) 0%, var(--color-accent) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-/* Subtitle (first strong/paragraph after h1) */
-.markdown-preview-view h1:first-child + p {
+/* Subtitle (first paragraph in content, e.g. tagline on Welcome page) */
+.markdown-preview-view > p:first-child {
   font-size: 1.2rem;
   color: var(--color-text-secondary);
   font-weight: 400;
@@ -476,6 +478,21 @@
 
 
 /* ============================================================
+   VIDEO EMBEDS
+   ============================================================ */
+
+.markdown-preview-view iframe[src*="youtube"] {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: none;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  margin: 1rem 0 1.5rem;
+}
+
+
+/* ============================================================
    IMAGES
    ============================================================ */
 
@@ -527,7 +544,8 @@
     font-size: 16px;
   }
 
-  .markdown-preview-view h1:first-child {
+  .page-header .page-title,
+  .inline-title {
     font-size: 2rem;
   }
 

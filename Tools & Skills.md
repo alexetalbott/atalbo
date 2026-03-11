@@ -1,5 +1,3 @@
-# Tools & Skills
-
 A snapshot of the technologies and methodologies I work with regularly.
 
 ---

@@ -1,5 +1,3 @@
-# Alex Talbott
-
 **Analytics Engineer & Marketing Analytics Leader**
 
 ---
@@ -35,7 +33,7 @@ Currently leading marketing analytics at [dbt Labs](https://www.getdbt.com/), wh
 > Selected project case studies from analytics engineering and marketing analytics. [[Projects|View projects →]]
 
 > [!tip] Writing
-> Posts on analytics engineering, BI strategy, and working with data. [[Writing|Read articles →]]
+> Talks and posts on analytics engineering, BI strategy, and working with data. [[Writing|Read more →]]
 
 > [!tip] Tools & Skills
 > Technical stack, methodologies, and capabilities. [[Tools & Skills|See details →]]

@@ -1,5 +1,3 @@
-# Projects
-
 Selected case studies from my work in analytics engineering and marketing analytics. Details are generalized to protect proprietary information.
 
 ---
