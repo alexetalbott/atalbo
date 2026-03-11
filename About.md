@@ -28,13 +28,22 @@ My path into analytics engineering wasn't linear. I've worked across marketing a
 
 What ties it together: I've always been drawn to the systems-level view. Not just "what does this number say?" but "why is this the number we're looking at, and is it the right one?"
 
----
-
-## Outside of Work
-
-When I'm not writing SQL or arguing about metric definitions, you can find me exploring Colorado's trails, tinkering with personal automation projects, or going deep on whatever rabbit hole I've fallen into that week.
+Outside of work, I enjoy bullet chess, racquet sports, and being a husband and girldad to my family of five.
 
 ---
 
 > [!tip] Let's Connect
 > Find me on [LinkedIn](https://www.linkedin.com/in/alexdata/) or [GitHub](https://github.com/alexetalbott).
+
+---
+
+## Explore
+
+> [!tip] Projects
+> Selected project case studies from analytics engineering and marketing analytics. [[Projects|View projects →]]
+
+> [!tip] Writing
+> Talks and posts on analytics engineering, BI strategy, and working with data. [[Talks & Thoughts|Read more →]]
+
+> [!tip] Tools & Skills
+> Technical stack, methodologies, and capabilities. [[Tools & Skills|See details →]]
